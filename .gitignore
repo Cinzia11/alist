@@ -1,7 +1,6 @@
 .idea/
 .DS_Store
 output/
-/dist/
 
 # Binaries for programs and plugins
 *.exe
@@ -9,7 +8,6 @@ output/
 *.dll
 *.so
 *.dylib
-*.db
 *.bin
 
 # Test binary, built with `go test -c`
@@ -23,7 +21,6 @@ output/
 /bin/*
 *.json
 /build
-/data/
 /log/
 /lang/
 /daemon/
