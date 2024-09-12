@@ -1,6 +1,7 @@
 .idea/
 .DS_Store
 output/
+/dist/
 
 # Binaries for programs and plugins
 *.exe
@@ -20,7 +21,9 @@ output/
 # Dependency directories (remove the comment below to include it)
 # vendor/
 /bin/*
+*.json
 /build
+/data/
 /log/
 /lang/
 /daemon/
